@@ -22,4 +22,7 @@ dependencies = [
              "tiktoken",
              "blobfile",
              "multiflow-python",
+             "pydantic",
+             "markdown",
+             "readability-lxml",
 ]
